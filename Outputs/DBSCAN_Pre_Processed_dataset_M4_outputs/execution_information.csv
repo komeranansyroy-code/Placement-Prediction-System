@@ -1,0 +1,10 @@
+Item,Details
+Input Dataset,D:/Pycham projects/Placement_predict/Dataset/final_preprocess_M2.csv
+Output Folder,D:/Pycham projects/Placement_predict/Outputs/DBSCAN_Pre_Processed_dataset_M4_outputs
+Original Dataset Modified,NO
+Features Used,"CGPA, HistoryOfBacklogs, Internships"
+Preprocessing,Existing preprocessed dataset
+Scaling,StandardScaler
+Algorithm,DBSCAN
+eps,0.8
+min_samples,10
